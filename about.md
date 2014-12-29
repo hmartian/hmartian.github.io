@@ -4,8 +4,15 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
+Mi nombre es Hugo Martínez, soy un administrador de sistemas y desarrollador web de Colombia.
+Soy fundador de [Didacti.co](http://didacti.co) desde donde pretendemos difundir ideas y educación 
+en tecnologías de manera gratuita o a muy bajo costo.
 
-You can find the source code for the Jekyll new theme at: [github.com/jglovier/jekyll-new](https://github.com/jglovier/jekyll-new)
+Mis intereses son la Internet, las tecnologías web y móviles, la computación en la nube y la educación.
+Estoy convencido que el dominio de esas tecnologías es uno de los factores más importantes para generar condiciones de equidad en el mundo. 
 
-You can find the source code for Jekyll at [github.com/jekyll/jekyll](https://github.com/jekyll/jekyll)
+Escribo aqui sobre mi trabajo y mi vida como entusiasta de la tecnología, emprendedor, aprendiz y profesor. 
+
+Hello, my name is Hugo Martinez. I'm a sysadmin and web developer from Colombia (South America).
+I'm founder of [Didacti.co](http://didacti.co) from where we try to share knowledge and 
+Here I write about my work and life as techie, entrepreneur, apprentice and teacher.
